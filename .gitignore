@@ -29,6 +29,9 @@ Reference/
 # Scrapy Folder
 naver_article/
 
+# .DS_Store
+.DS_Store
+
 
 # Distribution / packaging
 .Python
