@@ -22,6 +22,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Data / Reference
+data/
+Reference/
+
+# Scrapy Folder
+naver_article/
+
+
 # Distribution / packaging
 .Python
 build/
