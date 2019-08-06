@@ -26,11 +26,12 @@ __pycache__/
 data/
 Reference/
 
-# Scrapy Folder
+# Scrapy
 naver_article/
+run.sh
 
-# .DS_Store
-.DS_Store
+# Hidden_File
+.*
 
 
 # Distribution / packaging
