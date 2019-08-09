@@ -33,7 +33,8 @@ run.sh
 # Hidden_File
 .*
 
-
+# Test Code
+test*
 # Distribution / packaging
 .Python
 build/
